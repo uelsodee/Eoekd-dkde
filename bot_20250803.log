@@ -1,0 +1,78 @@
+2025-08-03 10:45:37,829 - __main__ - ERROR - ❌ Token Discord non trouvé!
+2025-08-03 10:45:37,829 - __main__ - ERROR - Veuillez définir la variable d'environnement DISCORD_TOKEN
+2025-08-03 10:45:37,829 - __main__ - ERROR - Exemple: export DISCORD_TOKEN='votre_token_ici'
+2025-08-03 10:45:52,076 - __main__ - ERROR - ❌ Token Discord non trouvé!
+2025-08-03 10:45:52,076 - __main__ - ERROR - Veuillez définir la variable d'environnement DISCORD_TOKEN
+2025-08-03 10:45:52,076 - __main__ - ERROR - Exemple: export DISCORD_TOKEN='votre_token_ici'
+2025-08-03 10:48:05,087 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 10:48:05,087 - __main__ - INFO - 🤖 Démarrage du bot de modération...
+2025-08-03 10:48:05,087 - __main__ - INFO - 📋 Commandes disponibles:
+2025-08-03 10:48:05,087 - __main__ - INFO -    +ban @utilisateur [raison] - Bannir un utilisateur
+2025-08-03 10:48:05,087 - __main__ - INFO -    +unban @utilisateur - Débannir un utilisateur
+2025-08-03 10:48:05,087 - __main__ - INFO -    +kick @utilisateur [raison] - Expulser un utilisateur
+2025-08-03 10:48:05,087 - __main__ - INFO -    +help - Afficher l'aide
+2025-08-03 10:48:05,088 - __main__ - INFO - ✅ Bot prêt! Connecté et en attente de commandes...
+2025-08-03 10:48:05,088 - discord.client - INFO - logging in using static token
+2025-08-03 10:48:05,313 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 10:48:05,313 - __main__ - INFO - 🤖 Démarrage du bot de modération...
+2025-08-03 10:48:05,313 - __main__ - INFO - 📋 Commandes disponibles:
+2025-08-03 10:48:05,313 - __main__ - INFO -    +ban @utilisateur [raison] - Bannir un utilisateur
+2025-08-03 10:48:05,313 - __main__ - INFO -    +unban @utilisateur - Débannir un utilisateur
+2025-08-03 10:48:05,313 - __main__ - INFO -    +kick @utilisateur [raison] - Expulser un utilisateur
+2025-08-03 10:48:05,313 - __main__ - INFO -    +help - Afficher l'aide
+2025-08-03 10:48:05,313 - __main__ - INFO - ✅ Bot prêt! Connecté et en attente de commandes...
+2025-08-03 10:48:05,314 - discord.client - INFO - logging in using static token
+2025-08-03 10:48:05,784 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1e263903c52b00e9f3fc0f6658e499d5).
+2025-08-03 10:48:05,927 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e8203925c7d7a8a755239c408f64ebed).
+2025-08-03 10:48:07,789 - bot - INFO - ✅ Protect by Y2#8490 est maintenant connecté!
+2025-08-03 10:48:07,790 - bot - INFO - 📊 Connecté à 1 serveur(s)
+2025-08-03 10:48:07,948 - bot - INFO - ✅ Protect by Y2#8490 est maintenant connecté!
+2025-08-03 10:48:07,949 - bot - INFO - 📊 Connecté à 1 serveur(s)
+2025-08-03 10:54:27,110 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 10:54:27,111 - __main__ - INFO - 🤖 Démarrage du bot de modération...
+2025-08-03 10:54:27,111 - __main__ - INFO - 📋 Commandes disponibles:
+2025-08-03 10:54:27,111 - __main__ - INFO -    +ban @utilisateur [raison] - Bannir un utilisateur
+2025-08-03 10:54:27,111 - __main__ - INFO -    +unban @utilisateur - Débannir un utilisateur
+2025-08-03 10:54:27,111 - __main__ - INFO -    +kick @utilisateur [raison] - Expulser un utilisateur
+2025-08-03 10:54:27,111 - __main__ - INFO -    +help - Afficher l'aide
+2025-08-03 10:54:27,111 - __main__ - INFO - ✅ Bot prêt! Connecté et en attente de commandes...
+2025-08-03 10:54:27,112 - discord.client - INFO - logging in using static token
+2025-08-03 10:54:27,151 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 10:54:27,151 - __main__ - INFO - 🤖 Démarrage du bot de modération...
+2025-08-03 10:54:27,151 - __main__ - INFO - 📋 Commandes disponibles:
+2025-08-03 10:54:27,151 - __main__ - INFO -    +ban @utilisateur [raison] - Bannir un utilisateur
+2025-08-03 10:54:27,151 - __main__ - INFO -    +unban @utilisateur - Débannir un utilisateur
+2025-08-03 10:54:27,151 - __main__ - INFO -    +kick @utilisateur [raison] - Expulser un utilisateur
+2025-08-03 10:54:27,152 - __main__ - INFO -    +help - Afficher l'aide
+2025-08-03 10:54:27,152 - __main__ - INFO - ✅ Bot prêt! Connecté et en attente de commandes...
+2025-08-03 10:54:27,152 - discord.client - INFO - logging in using static token
+2025-08-03 10:54:27,719 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5cd766db6b3ffe02d31309d763e8f5bd).
+2025-08-03 10:54:27,808 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 314ba485e5434f462a774ae082cbefb0).
+2025-08-03 10:54:29,735 - bot - INFO - ✅ Protect by Y2#8490 est maintenant connecté!
+2025-08-03 10:54:29,736 - bot - INFO - 📊 Connecté à 1 serveur(s)
+2025-08-03 10:54:29,814 - bot - INFO - ✅ Protect by Y2#8490 est maintenant connecté!
+2025-08-03 10:54:29,815 - bot - INFO - 📊 Connecté à 1 serveur(s)
+2025-08-03 10:57:37,742 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 10:57:37,743 - __main__ - INFO - 🤖 Démarrage du bot de modération...
+2025-08-03 10:57:37,743 - __main__ - INFO - 📋 Commandes disponibles:
+2025-08-03 10:57:37,743 - __main__ - INFO -    +ban @utilisateur [raison] - Bannir un utilisateur
+2025-08-03 10:57:37,743 - __main__ - INFO -    +unban @utilisateur - Débannir un utilisateur
+2025-08-03 10:57:37,743 - __main__ - INFO -    +kick @utilisateur [raison] - Expulser un utilisateur
+2025-08-03 10:57:37,743 - __main__ - INFO -    +help - Afficher l'aide
+2025-08-03 10:57:37,743 - __main__ - INFO - ✅ Bot prêt! Connecté et en attente de commandes...
+2025-08-03 10:57:37,744 - discord.client - INFO - logging in using static token
+2025-08-03 10:57:38,070 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 10:57:38,071 - __main__ - INFO - 🤖 Démarrage du bot de modération...
+2025-08-03 10:57:38,072 - __main__ - INFO - 📋 Commandes disponibles:
+2025-08-03 10:57:38,072 - __main__ - INFO -    +ban @utilisateur [raison] - Bannir un utilisateur
+2025-08-03 10:57:38,073 - __main__ - INFO -    +unban @utilisateur - Débannir un utilisateur
+2025-08-03 10:57:38,073 - __main__ - INFO -    +kick @utilisateur [raison] - Expulser un utilisateur
+2025-08-03 10:57:38,073 - __main__ - INFO -    +help - Afficher l'aide
+2025-08-03 10:57:38,073 - __main__ - INFO - ✅ Bot prêt! Connecté et en attente de commandes...
+2025-08-03 10:57:38,074 - discord.client - INFO - logging in using static token
+2025-08-03 10:57:38,349 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2ecc052cc9377282b29f54f1d4c6562d).
+2025-08-03 10:57:38,745 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 30e8b091a027267f764747dadb02bfe4).
+2025-08-03 10:57:40,356 - bot - INFO - ✅ Protect by Y2#8490 est maintenant connecté!
+2025-08-03 10:57:40,357 - bot - INFO - 📊 Connecté à 1 serveur(s)
+2025-08-03 10:57:40,750 - bot - INFO - ✅ Protect by Y2#8490 est maintenant connecté!
+2025-08-03 10:57:40,751 - bot - INFO - 📊 Connecté à 1 serveur(s)
